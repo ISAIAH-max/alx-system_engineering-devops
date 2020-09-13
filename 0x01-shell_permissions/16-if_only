@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello if [ "$USER"=guillaume ] fi
+if(($USER=guillaume)) then chown betty hello
