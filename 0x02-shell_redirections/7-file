@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) <Return> Holberton School CRTL+D
+echo "Holberton School" > \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
