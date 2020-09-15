@@ -1,2 +1,2 @@
 #!/bin/bash
-if(($USER=guillaume)) then chown betty hello
+chown --reference=guillaume betty Hello
