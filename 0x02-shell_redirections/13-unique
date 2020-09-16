@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq list|sort
+uniq list|sort "\n"
