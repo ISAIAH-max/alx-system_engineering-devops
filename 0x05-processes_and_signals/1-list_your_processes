@@ -5,4 +5,4 @@
 # 2. Display in a user-oriented format
 # 3. Show process hierarchy
 
-ps -aux | less
+ps aux | less
