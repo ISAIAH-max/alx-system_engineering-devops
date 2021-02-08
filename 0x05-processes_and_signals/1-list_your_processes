@@ -6,4 +6,4 @@
 # 2. Display in a user-oriented format
 # 3. Show process hierarchy
 
-ps auxf
+ps auxf | less
