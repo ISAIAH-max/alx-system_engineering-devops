@@ -1,5 +1,5 @@
 # 0x06. Regular expression
-## This project is about regular expressions.
+* This project is about regular expressions.
 
 ### What is a Regular expression (regex)?
 * It refers to a sequence off symbols and characters expressing a string or apattern to be searched for within a long piece of text.
