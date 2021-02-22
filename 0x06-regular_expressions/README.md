@@ -2,7 +2,7 @@
 * This project is about regular expressions.
 
 ### What is a Regular expression (regex)?
-* It refers to a sequence off symbols and characters expressing a string or apattern to be searched for within a long piece of text.
+* It refers to a sequence of symbols and characters expressing a string or apattern to be searched for within a long piece of text.
 
 * Another definition is that: A regular expression isa a sequence of characters that define a search pattern.
 * Another definitiion: Regular expression is a string of text that allows you to create patterns that help match, locate, and manage text.
