@@ -42,4 +42,7 @@ An OSI model consists of seven different layers which are typically described fr
 * X.25
 - Theses technologies are used for connectivity over the longer distances.
 ## What is the Internet?
+##### Definitions:
+* The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
+* It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
 ## TCP/UDP
