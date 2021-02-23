@@ -8,13 +8,13 @@ Here we'll be looking at the conseptual framework(ISO model) used to describe th
 * [TCP/UDP](#TCP/UDP)
 
 ## OSI model
-### What is OSI model
+What is OSI model?
 Definitions:
 * OSI model is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
 * The Open Systems Interconnection (ISO) model describes seven layers that computer systems use to communicate over a network.
-### How many layers it has?
+How many layers it has?
 * OSI models has seven layers.
-### How is it organized?
+How is it organized?
 
 
 ## What is a LAN?
