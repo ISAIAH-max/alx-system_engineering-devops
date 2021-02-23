@@ -6,7 +6,7 @@ Here we'll be looking at the conseptual framework(ISO model) used to describe th
 * [What is a LAN](#What-is-a-LAN)
 * [What is a WAN](What-is-a-WAN)
 * [What is the Internet](#What-is-the-Internet)
-* [TCP/UDP](#TCP/UDP)
+* [TCP/UDP](#TCP)
 
 ## OSI model
 ##### What is OSI model?
