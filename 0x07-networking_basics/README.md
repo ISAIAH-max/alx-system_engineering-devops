@@ -17,12 +17,12 @@ Definitions:
 * OSI models has seven layers.
 ##### How is it organized?
 An OSI model consists of seven different layers which are typically described from  top to bottom. In order from seven to one, the layers are as follows:
-* 7.Application
-* 6.Presentation
-* 5.Session
-* 4.Transport
-* 3.Network
-* 2.Data Link
-* 1.Physical
+* 7. Application Layer
+* 6. Presentation Layer
+* 5. Session Layer
+* 4. Transport Layer
+* 3. Network Layer
+* 2. Data Link Layer
+* 1. Physical Layer
 
 ## What is a LAN?
