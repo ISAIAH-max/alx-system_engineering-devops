@@ -6,7 +6,7 @@ Here we'll be looking at the conseptual framework(ISO model) used to describe th
 * [What is a LAN](#What-is-a-LAN)
 * [What is a WAN](What-is-a-WAN)
 * [What is the Internet](#What-is-the-Internet)
-* [TCP/UDP](#TCP)
+* [TCP/UDP](#TCP/UDP)
 
 ## OSI model
 ##### What is OSI model?
@@ -46,3 +46,8 @@ An OSI model consists of seven different layers which are typically described fr
 * The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
 * It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
 ## TCP/UDP
+##### What is TCP?
+* Transmission Control Protocol/Internet Protocol, standard Internet communications protocols that allow digital computers to communicate over long distances.
+Transmission Control Protocol/Internet Protocol, standard Internet communications protocols that allow digital computers to communicate over long distances - CP provides apps a way to deliver (and receive) an ordered and error-checked stream of information packets over the network.
+##### What is UDP?
+* User Datagram Protocal(UDP) – a communications protocol that facilitates the exchange of messages between computing devices in a network - It's an alternative to the transmission control protocol (TCP). User Datagram Protocol (UDP) is used by apps to deliver a faster stream of information by doing away with error-checking. 
