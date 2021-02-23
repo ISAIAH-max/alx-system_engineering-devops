@@ -29,9 +29,17 @@ An OSI model consists of seven different layers which are typically described fr
 * A Local Area Network(LAN) connects network devices over a relatively short distance.
 ##### Usage:
 * LANs are typically used in private households or in companies to set up home or corporate networks.
+##### Technologies Used:
+* Ethernet
+* Token Ring
 ## What is a WAN?
 * A WAN is a geographically-dispersed collection of LANs. A network device called a router connects LANs to a WAN - In IP networking, the router maintains both a LAN address and a WAN address.
 ##### Usage:
 * WANs can facilitate communication, the sharing of information and much more between devices from around the world through a WAN provider.
+##### Technologies Used:
+* ATM
+* Frame Relay
+* X.25
+- Theses technologies are used for connectivity over the longer distances.
 ## What is the Internet?
 ## TCP/UDP
