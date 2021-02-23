@@ -11,7 +11,7 @@ Here we'll be looking at the conseptual framework(ISO model) used to describe th
 ## OSI model
 ##### What is OSI model?
 Definitions:
-* OSI model is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
+* OSI model is a conceptual model(A conceptual model is a representation of a system, made of the composition of concepts which are used to help people know, understand, or simulate a subject the model represents.) that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
 * The Open Systems Interconnection (ISO) model describes seven layers that computer systems use to communicate over a network.
 ##### How many layers it has?
 * OSI models has seven layers.
