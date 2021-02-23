@@ -26,6 +26,12 @@ An OSI model consists of seven different layers which are typically described fr
 * 1. Physical Layer
 
 ## What is a LAN?
+* A Local Area Network(LAN) connects network devices over a relatively short distance.
+##### Usage:
+* LANs are typically used in private households or in companies to set up home or corporate networks.
 ## What is a WAN?
+* A Wide Area Network(WAN) spans a large physical distance.
+##### Usage:
+* The internet is the largest WAN, spanning the Earth.
 ## What is the Internet?
 ## TCP/UDP
