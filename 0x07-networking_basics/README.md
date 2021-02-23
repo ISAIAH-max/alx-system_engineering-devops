@@ -1,6 +1,7 @@
 # 0x07. Networking basics #0
 Here we'll be looking at the conseptual framework(ISO model) used to describe the functions of network systems.
-## Table of Content
+
+## Table of Contents
 * [OSI Model](#OSI-Model)
 * [What is a LAN](#What-is-a-LAN)
 * [What is a WAN](What-is-a-WAN)
