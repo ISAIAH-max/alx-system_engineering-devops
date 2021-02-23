@@ -15,7 +15,7 @@ Definitions:
 * The Open Systems Interconnection (ISO) model describes seven layers that computer systems use to communicate over a network.
 ##### How many layers it has?
 * OSI models has seven layers.
-#### How is it organized?
+##### How is it organized?
 
 
 ## What is a LAN?
