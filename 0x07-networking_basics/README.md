@@ -26,3 +26,6 @@ An OSI model consists of seven different layers which are typically described fr
 * 1. Physical Layer
 
 ## What is a LAN?
+## What is a WAN?
+## What is the Internet?
+## TCP/UDP
