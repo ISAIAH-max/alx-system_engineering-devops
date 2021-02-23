@@ -14,8 +14,15 @@ Definitions:
 * OSI model is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
 * The Open Systems Interconnection (ISO) model describes seven layers that computer systems use to communicate over a network.
 ##### How many layers it has?
-* OSI models has seven layers.
+OSI models has seven layers.
 ##### How is it organized?
-
+An OSI model consists of seven different layers which are typically described from  top to bottom. In order from seven to one, the layers are as follows:
+* Application
+* Presentation
+* Session
+* Transport
+* Network
+* Data Link
+* Physical
 
 ## What is a LAN?
