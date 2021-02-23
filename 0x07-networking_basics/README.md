@@ -30,8 +30,8 @@ An OSI model consists of seven different layers which are typically described fr
 ##### Usage:
 * LANs are typically used in private households or in companies to set up home or corporate networks.
 ## What is a WAN?
-* A Wide Area Network(WAN) spans a large physical distance.
+* A Wide Area Network(WAN) spans a large physical distance. The internet is the largest WAN, spanning the Earth.
 ##### Usage:
-* The internet is the largest WAN, spanning the Earth.
+* WANs can facilitate communication, the sharing of information and much more between devices from around the world through a WAN provider.
 ## What is the Internet?
 ## TCP/UDP
