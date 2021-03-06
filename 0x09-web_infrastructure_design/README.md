@@ -22,4 +22,4 @@
 * In this project, again, avoid going in details if not asked
 
 # AUTHOR
-* This project was done by [ISAIAH MLEWA NDARA](github.com/ISAIAH-max) <mlewaisaiah@gmail.com> 
+* This project was done by ISAIAH MLEWA NDARA <ISAIAH-max>
