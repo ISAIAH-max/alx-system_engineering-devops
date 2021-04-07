@@ -4,5 +4,5 @@
 
 Host 35.243.201.233
   IdentifyFile ~/.ssh/holberton
-  PasswordAuthentication No
+  PasswordAuthentication no
   BatchMode yes
