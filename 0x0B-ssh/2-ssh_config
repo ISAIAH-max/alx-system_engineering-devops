@@ -3,9 +3,6 @@
 # to allow authentication without a password
 
 Host 35.243.201.233
-  IgnoreUknown AddKeysToAgent,UseKeychain
-  AddKeysToAgent yes
-  UseKeychain yes
   IdentifyFile ~/.ssh/holberton
   PasswordAuthentication No
   BatchMode yes
