@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# A script that copy my  Public SSH Key to a Server with SSH-Copy-ID
+# to allow authentication without a password
+
+Host *
+  IgnoreUknown AddKeysToAgent,UseKeychain
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentifyFile ~/.ssh/holberton
+  PasswordAuthentication No
