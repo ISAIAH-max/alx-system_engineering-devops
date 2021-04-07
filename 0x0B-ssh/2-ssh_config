@@ -7,5 +7,5 @@ Host *
   AddKeysToAgent yes
   UseKeychain yes
   IdentifyFile ~/.ssh/holberton
-  IdentifyFile ~/.ssh/id_rsa
+  IdentifyFile ~/.ssh/ssh-rsa
   PasswordAuthentication No
