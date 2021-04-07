@@ -2,7 +2,7 @@
 # A script that copy my  Public SSH Key to a Server with SSH-Copy-ID
 # to allow authentication without a password
 
-Host *
+Host 35.243.201.233
   IgnoreUknown AddKeysToAgent,UseKeychain
   AddKeysToAgent yes
   UseKeychain yes
