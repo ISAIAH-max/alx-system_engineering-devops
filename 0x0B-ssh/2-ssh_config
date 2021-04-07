@@ -6,6 +6,6 @@ Host *
   IgnoreUknown AddKeysToAgent,UseKeychain
   AddKeysToAgent yes
   UseKeychain yes
-  IdentifyFile ~/.ssh/holberton
   IdentifyFile ~/.ssh/id_rsa
+  IdentifyFile ~/.ssh/holberton
   PasswordAuthentication No
