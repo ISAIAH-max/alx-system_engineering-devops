@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Configure nginx to stop running
+sudo sed -i 's/8080 default_server/80 default_server/g' /etc/nginx/sites-enabled/default
+sudo service nginx restart
+kill $(cat /run/nginx.pid)
