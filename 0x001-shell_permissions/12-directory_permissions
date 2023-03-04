@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 750 -p my_dir
+mkdir -m 750 my_dir
