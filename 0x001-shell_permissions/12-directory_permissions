@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir my_dir | sudo chmod 750
